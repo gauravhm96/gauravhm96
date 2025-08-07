@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Honnavara
-- 🌱 I’m currently studying Master's Course at Frankfurt University of Applied Sciences (Information Technology)
+- 🌱 I’m Embedded Software Developer. (Embedded C & Little bit of Python)
 - 📫 How to reach me  --> gauravhm96@gmail.com
 - 📫 My Linkedin Account  --> linkedin.com/in/gaurav-honnavara
 
